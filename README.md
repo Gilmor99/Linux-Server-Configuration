@@ -87,4 +87,4 @@ Setting up an AWS Lightsail Ubuntu Server with a Catalog python app
           ff02::2 ip6-allrouters
           ff02::3 ip6-allhosts
 
- 10. Enjoy it!    
+ 10. Enjoy it!   
